@@ -11,15 +11,19 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Relative Layout
+<kbd>
 ![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/relative.png)
-
+</kbd>
 
 ### Liniear Layout
+<kbd>
 ![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/liniear.png)
-
+</kbd>
 
 ### Table Layout
+<kbd>
 ![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/table.png)
+</kbd>
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
 ```sh
