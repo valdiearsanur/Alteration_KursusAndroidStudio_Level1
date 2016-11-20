@@ -11,8 +11,9 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Beberapa Versi Layout
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P3a/master/Screenshot_2016-10-28-06-19-31.png)
-
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/relative.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/liniear.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-4a/screenshoots/table.png)
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
 ```sh
