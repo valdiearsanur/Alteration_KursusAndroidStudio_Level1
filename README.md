@@ -12,13 +12,18 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### FoodPedia (aplikasi informasi makanan dengan static data)
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P7/master/screenshoots/Screenshot_2016-11-10-17-59-40.png)
-![alt tag](https://github.com/valdiearsanur/AlterAndroidStudio1-P7/raw/master/screenshoots/Screenshot_2016-11-10-17-59-34.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-7/screenshoots/Screenshot_2016-11-10-17-59-40.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-7/screenshoots/Screenshot_2016-11-10-17-59-34.png)
 
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P7.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-7`
+```sh
+$ git checkout pertemuan-7
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
