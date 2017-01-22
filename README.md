@@ -12,14 +12,19 @@ https://www.slideshare.net/secret/DhNGHsrG53fRIL
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Registration Form
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P6a/master/screenshoots/Screenshot_2016-11-11-07-14-16.png)
-![alt tag](https://github.com/valdiearsanur/AlterAndroidStudio1-P6a/raw/master/screenshoots/Screenshot_2016-11-11-07-14-27.png)
-![alt tag](https://github.com/valdiearsanur/AlterAndroidStudio1-P6a/raw/master/screenshoots/Screenshot_2016-11-11-07-14-40.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-6a/screenshoots/Screenshot_2016-11-11-07-14-16.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-6a/screenshoots/Screenshot_2016-11-11-07-14-27.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-6a/screenshoots/Screenshot_2016-11-11-07-14-40.png)
 
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P6a.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-6a`
+```sh
+$ git checkout pertemuan-6a
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
