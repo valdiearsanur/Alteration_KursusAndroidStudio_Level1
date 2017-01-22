@@ -13,12 +13,17 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Fakta Seru (Random Number Generator & String Array)
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P3/master/screenshoots/Screenshot_2016-10-27-13-45-16.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-3a/screenshoots/Screenshot_2016-10-27-13-45-16.png)
 
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P3.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-2`
+```sh
+$ git checkout pertemuan-3a
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
