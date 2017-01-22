@@ -21,7 +21,7 @@ Clone repositori
 ```sh
 $ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
 ```
-Lalu checkout pada branch `pertemuan-2`
+Lalu checkout pada branch `pertemuan-3a`
 ```sh
 $ git checkout pertemuan-3a
 ```
