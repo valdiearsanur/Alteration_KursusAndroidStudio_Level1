@@ -13,12 +13,17 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Kalkulator BMI
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P3a/master/Screenshot_2016-10-28-06-19-31.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-3b/Screenshot_2016-10-28-06-19-31.png)
 
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P3a.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-3b`
+```sh
+$ git checkout pertemuan-3b
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
