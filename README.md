@@ -26,8 +26,13 @@ http://www.slideshare.net/secret/22BpcIAjAinolC
 </kbd>
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P4a.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-4a`
+```sh
+$ git checkout pertemuan-4a
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
