@@ -13,12 +13,18 @@ https://www.slideshare.net/secret/AI7RtDPEx5zsbj
 
 ## Apa yang Dibuat pada Repositori Ini?
 ### Tampilan Aplikasi Konversi Mata Uang
-![alt tag](https://raw.githubusercontent.com/valdiearsanur/AlterAndroidStudio1-P2/master/Screenshot_2016-10-30-21-56-40.png)
+![alt tag](https://raw.githubusercontent.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1/pertemuan-2/Screenshot_2016-10-30-21-56-40.png)
 
 
 ## Repositori ini berisi example project yang dapat di clone dengan menggunakan perintah berikut :
+
+Clone repositori
 ```sh
-$ git clone https://github.com/valdiearsanur/AlterAndroidStudio1-P2.git
+$ git clone https://github.com/valdiearsanur/Alteration_KursusAndroidStudio_Level1.git
+```
+Lalu checkout pada branch `pertemuan-2`
+```sh
+$ git checkout pertemuan-2
 ```
 
 Oke, sekian untuk rangkuman kursus pertemuan kali ini. Semoga bermanfaat. Terima kasih :)
